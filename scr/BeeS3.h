@@ -1,5 +1,5 @@
-#ifndef _BeeS3
-#define _BeeS3
+#ifndef _BeeS3_H
+#define _BeeS3_H
 
 #include <Arduino.h>
 #include <esp_adc_cal.h>
