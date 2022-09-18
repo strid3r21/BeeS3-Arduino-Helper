@@ -1,6 +1,7 @@
 // include the Bee S3 libaray so we can use the RGB LED and Battery Voltage Monitor
 #include <BeeS3.h>
 
+
 BEES3 bees3;
 
 void setup() {
