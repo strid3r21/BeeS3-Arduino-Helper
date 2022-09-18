@@ -1,4 +1,4 @@
-# Smart Bee Designs Bee S3 Arduino Helper Library
+# Bee S3 Arduino Helper Library
 
 Examples can be found in the [examples directory](./examples/), these can also be loaded from the examples menu in the Arduino IDE.
 
