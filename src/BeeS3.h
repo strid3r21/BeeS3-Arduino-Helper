@@ -35,7 +35,6 @@ class BEES3 {
 
     }
 
-
     void setPixelPower(bool on) {
       digitalWrite(RGB_PWR, on);
     }
